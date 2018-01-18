@@ -30,6 +30,7 @@ public class aktiviti641soalan2 {
         }else if (bilpelanggan <=50){
             bonus=2500;
           
+            
         }else {
             bonus=1050;
             
